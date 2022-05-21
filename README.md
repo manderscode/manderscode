@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 - 🔭 I’m currently working on projects for Resilient Coders
 - 🌱 I’m currently learning JavaScript
