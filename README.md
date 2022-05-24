@@ -1,7 +1,5 @@
-![gitHubBanner](https://user-images.githubusercontent.com/102008028/169945751-fec6d473-13e9-4fd6-a75f-ce37f4064fc4.jpg)
-
-<h1 align="center">Hi 👋, I'm Mandy Wong!</h1>
-
+![gitHubBanner](https://user-images.githubusercontent.com/102008028/169946008-ff9a47f9-4f1d-416e-afb0-19bd5b3abdd6.jpg)
+<!-- <h1 align="center">Hi 👋, I'm Mandy Wong!</h1> -->
 - 🔭 I’m currently working on projects for Resilient Coders
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts: I really love to hula hoop, watch sunsets, and read the names of snacks at ethnic grocery stores.
