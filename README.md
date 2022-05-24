@@ -1,28 +1,17 @@
-<!-- ### Hello! 👋
+![Pink Watercolor Floral Wedding Banner](https://user-images.githubusercontent.com/102008028/169945402-b3017738-b6d0-4e81-a816-fbee053813bb.jpg)
 
-- 🔭 I’m currently working on projects for Resilient Coders
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me about anything FOO:D related!
-- 📫 How to reach me: mawongbla@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I really love to hula hoop!  -->
+<h1 align="center">Hi 👋, I'm Mandy Wong!</h1>
 
 
 **manderscode/manderscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on projects for Resilient Coders
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me about anything FOO:D related!
-- 📫 How to reach me: mawongbla@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I really love to hula hoop! 
+- ⚡ Fun facts: I really love to hula hoop, watch sunsets, and read the names of snacks at ethnic grocery stores.
 
-<h1 align="center">Hi 👋, I'm Mandy Wong!</h1>
 - 👨‍💻 All of my projects are available at [https://mandywong.netlify.app/](https://mandywong.netlify.app/)
 
 - 📫 How to reach me **mawongbla@gmail.com**
-
-- ⚡ Fun fact **I love to hula hoop!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
