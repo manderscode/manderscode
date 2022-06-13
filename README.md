@@ -1,7 +1,7 @@
 ![gitHubBanner](https://user-images.githubusercontent.com/102008028/169946008-ff9a47f9-4f1d-416e-afb0-19bd5b3abdd6.jpg)
 <!-- <h1 align="center">Hi 👋, I'm Mandy Wong!</h1> -->
 - 🔭 I’m currently working on projects for Resilient Coders
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her/Hers
 - ⚡ Fun facts: I really love to hula hoop, watch sunsets, and read the names of snacks at ethnic grocery stores.
 
 - 👨‍💻 All of my projects are available at [https://mandywong.netlify.app/](https://mandywong.netlify.app/)
