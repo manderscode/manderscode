@@ -2,7 +2,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Mandy Wong!</h1> -->
 - 🔭 I’m currently working on projects for Resilient Coders
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun facts: I really love to hula hoop, watch sunsets, and read the names of snacks at ethnic grocery stores.
+- ⚡ Fun facts: I love to hula hoop, watch sunsets, and read the names of snacks at ethnic grocery stores.
 
 - 👨‍💻 All of my projects are available at [https://mandywong.netlify.app/](https://mandywong.netlify.app/)
 
