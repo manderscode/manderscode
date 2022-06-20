@@ -4,7 +4,7 @@
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun facts: I love to hula hoop, watch sunsets, and read the names of snacks at ethnic grocery stores.
 
-- 👨‍💻 All of my projects are available at [https://mandywong.netlify.app/](https://mandywong.netlify.app/)
+- 👨‍💻 All of my projects are available at https://mwongportfolio.netlify.app/
 
 - 📫 How to reach me **mawongbla@gmail.com**
 
