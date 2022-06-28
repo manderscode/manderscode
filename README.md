@@ -4,9 +4,9 @@
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun facts: I love to hula hoop, watch sunsets, and read the names of snacks and drinks at ethnic grocery stores.
 
-- 👨‍💻 All of my projects are available at https://mwongportfolio.netlify.app/
+- 👨‍💻 All of my projects are available at: https://mwongportfolio.netlify.app/
 
-- 📫 How to reach me **mawongbla@gmail.com**
+- 📫 How to reach me: **mawongbla@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
