@@ -1,4 +1,5 @@
-![gitHubBanner](https://user-images.githubusercontent.com/102008028/169946008-ff9a47f9-4f1d-416e-afb0-19bd5b3abdd6.jpg)
+![gitHubBanner](https://user-images.githubusercontent.com/102008028/177090829-2109bfd8-0397-48c1-888b-9856cb26c9e3.jpg)
+
 <!-- <h1 align="center">Hi 👋, I'm Mandy Wong!</h1> -->
 - 🔭 I’m currently working on projects for Resilient Coders
 - 😄 Pronouns: She/Her/Hers
